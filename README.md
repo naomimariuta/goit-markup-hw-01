@@ -1,2 +1,3 @@
-# goit-markup-hw-01
- modulul 1->prima tema
+# goit-markup-hw-02
+
+modulul 1->a doua tema
